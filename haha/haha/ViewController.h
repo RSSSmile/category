@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+/** hehe */
+@property (nonatomic, strong) NSString *string;
 
 @end
 
