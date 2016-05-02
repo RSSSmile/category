@@ -13,5 +13,7 @@
 /** hehe */
 @property (nonatomic, strong) NSString *string;
 
+@property (nonatomic, strong) NSArray *dataArray;
+
 @end
 
